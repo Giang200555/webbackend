@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\Giang200555\webbackend\source\BaiTapTuan1\BaiTapTuan1\bin\Debug\net8.0\BaiTapTuan1.exe
+C:\Users\ASUS\source\repos\Giang200555\webbackend\source\BaiTapTuan1\BaiTapTuan1\bin\Debug\net8.0\BaiTapTuan1.deps.json
+C:\Users\ASUS\source\repos\Giang200555\webbackend\source\BaiTapTuan1\BaiTapTuan1\bin\Debug\net8.0\BaiTapTuan1.runtimeconfig.json
+C:\Users\ASUS\source\repos\Giang200555\webbackend\source\BaiTapTuan1\BaiTapTuan1\bin\Debug\net8.0\BaiTapTuan1.dll
+C:\Users\ASUS\source\repos\Giang200555\webbackend\source\BaiTapTuan1\BaiTapTuan1\bin\Debug\net8.0\BaiTapTuan1.pdb
+C:\Users\ASUS\source\repos\Giang200555\webbackend\source\BaiTapTuan1\BaiTapTuan1\obj\Debug\net8.0\BaiTapTuan1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Giang200555\webbackend\source\BaiTapTuan1\BaiTapTuan1\obj\Debug\net8.0\BaiTapTuan1.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Giang200555\webbackend\source\BaiTapTuan1\BaiTapTuan1\obj\Debug\net8.0\BaiTapTuan1.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Giang200555\webbackend\source\BaiTapTuan1\BaiTapTuan1\obj\Debug\net8.0\BaiTapTuan1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Giang200555\webbackend\source\BaiTapTuan1\BaiTapTuan1\obj\Debug\net8.0\BaiTapTuan1.sourcelink.json
+C:\Users\ASUS\source\repos\Giang200555\webbackend\source\BaiTapTuan1\BaiTapTuan1\obj\Debug\net8.0\BaiTapTuan1.dll
+C:\Users\ASUS\source\repos\Giang200555\webbackend\source\BaiTapTuan1\BaiTapTuan1\obj\Debug\net8.0\refint\BaiTapTuan1.dll
+C:\Users\ASUS\source\repos\Giang200555\webbackend\source\BaiTapTuan1\BaiTapTuan1\obj\Debug\net8.0\BaiTapTuan1.pdb
+C:\Users\ASUS\source\repos\Giang200555\webbackend\source\BaiTapTuan1\BaiTapTuan1\obj\Debug\net8.0\BaiTapTuan1.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\Giang200555\webbackend\source\BaiTapTuan1\BaiTapTuan1\obj\Debug\net8.0\ref\BaiTapTuan1.dll
